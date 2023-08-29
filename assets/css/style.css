@@ -4353,7 +4353,9 @@ hr {
 .footer-wrappr {
   background: #03658C;
 }
-
+.h4color{
+  color: #03658C;
+}
 /* line 10, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_footer.scss */
 .footer-wrappr .form-wrapper input {
   border: 1px solid #853023;
